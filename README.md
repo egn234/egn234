@@ -16,15 +16,9 @@ I'm a full-stack developer with a passion for building dynamic and responsive we
 - **Database:** MySQL
 - **Tools & Platforms:** Docker, Git
 
-### 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=egn234&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egn234&layout=compact&theme=radical)
-
 ### ✨ My Featured Projects:
-- [Project Name](https://github.com/username/project-repo): Brief description of what the project does.
-- [Another Project](https://github.com/username/another-project): Another quick description.
+- [Project Name](https://github.com/egn234/ekoperasi) 
 
 ### 🌐 Connect with Me:
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/egn234)
-- Website: [Your Personal Website](https://yourwebsite.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/egan-kusmaya-b29b72192/)
+<!-- - Website: [Your Personal Website](https://yourwebsite.com) -->
