@@ -16,7 +16,10 @@ I'm a full-stack developer with a passion for building dynamic and responsive we
 - **Tools & Platforms:** Docker, Git
 
 ### ✨ My Featured Projects:
-- [Ekoperasi](https://github.com/egn234/ekoperasi) 
+- [Ekoperasi](https://github.com/egn234/ekoperasi)
+- [Sistem Informasi Akademik Kebidanan Annisa Jaya](https://github.com/egn234/sisfo-akbid)
+- [PAGlowUP](https://github.com/maulanafadilah/paglowup)
+- [PojokUMKM](https://github.com/egn234/pojokumkm)
 
 ### 🌐 Connect with Me:
 - LinkedIn: [Egan Kusmaya](https://www.linkedin.com/in/egan-kusmaya-b29b72192/)
