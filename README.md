@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Egan Kusmaya!
+# Hi there! 👋 I'm EggAnt!
 
 ## 💻 Full-Stack Web Developer
 
@@ -20,7 +20,3 @@ I'm a full-stack developer with a passion for building dynamic and responsive we
 - [Sistem Informasi Akademik Kebidanan Annisa Jaya](https://github.com/egn234/sisfo-akbid)
 - [PAGlowUP](https://github.com/maulanafadilah/paglowup)
 - [PojokUMKM](https://github.com/egn234/pojokumkm)
-
-### 🌐 Connect with Me:
-- LinkedIn: [Egan Kusmaya](https://www.linkedin.com/in/egan-kusmaya-b29b72192/)
-<!-- - Website: [Your Personal Website](https://yourwebsite.com) -->
