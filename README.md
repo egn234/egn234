@@ -31,5 +31,5 @@ I am also a Language-agnostic engineer with a high level of adaptability across 
 - **AI Tools:** Stable Diffusion, ComfyUI, LoRA Training.
 
 ---
-📫 **Contact:** [E-mail](mailto:egn234@gmail.com)
+📫 **Contact:** [E-mail](mailto:egn234@gmail.com) <br>
 *Solving problems through code, so I can be lazy later.*
