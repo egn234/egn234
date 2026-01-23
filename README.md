@@ -1,5 +1,5 @@
 # Hi, I'm EggAnt 👋
-### Systems Engineer | Backend Architect | AI & Automation Specialist
+### Systems Engineer | Backend Architect
 
 I am a logic-driven Backend Developer specializing in engineering high-complexity systems and solving architectural bottlenecks. My approach focuses on **technical stability**, **automation**, and **precision**—turning manual chaos into streamlined digital workflows.
 I am also a Language-agnostic engineer with a high level of adaptability across web-centric stacks (PHP, JS/TS, Python, etc.). Specialized in rapid problem-solving regardless of the environment.
@@ -28,7 +28,6 @@ I am also a Language-agnostic engineer with a high level of adaptability across 
 - **Languages:** JavaScript (ES6+), TypeScript, PHP (Expert), SQL.
 - **Frameworks:** Next.js, React, CodeIgniter 4 (Core Specialist).
 - **Infrastructure:** Docker, Linux Systems, Tailscale Mesh Networking.
-- **AI Tools:** Stable Diffusion, ComfyUI, LoRA Training.
 
 ---
 📫 **Contact:** [E-mail](mailto:egn234@gmail.com) <br>
